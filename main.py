@@ -1,4 +1,4 @@
-from prod.input_number import input_number
+from input_number import input_number
 import matplotlib.pyplot as plt
 import numpy as np
 
